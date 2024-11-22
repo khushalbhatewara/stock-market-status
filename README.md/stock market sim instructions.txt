@@ -1,0 +1,21 @@
+# Stock Market Status Website
+
+This is a simple web app that allows users to enter a company symbol (e.g., AAPL, TSLA) and get the stock market status. The information includes:
+- The date of the most recent stock data
+- The closing price of the stock
+- The 50-day and 200-day Simple Moving Averages (SMA)
+- A signal (BUY, SELL, or N/A) based on the SMAs
+
+## Technologies Used:
+- HTML
+- CSS
+- JavaScript
+- Alpha Vantage API (or Yahoo Finance API)
+
+## How to Run:
+1. Open the `index.html` file in your browser.
+2. Enter a stock symbol (e.g., AAPL, TSLA) and click "Get Stock Status".
+3. The stock data will be displayed below.
+
+## License:
+This project is open-source and free to use.
